@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jack Venerus
+Sudent Email:  jgveneru@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I was perplexed at first by this homework. the first extraction portion was relatively easy. the transform portion however, was much more difficult, and I found myself looking at the solution a couple of times to be able to finish that section of the coding. I really struggled with combining the annual salary cleaned and adjusted. The to csv portion however was more feasable for me to figure out. part 3 was very easy for me, as it was only that one simple part where I had to take the files and do the little manipulation with them. 
