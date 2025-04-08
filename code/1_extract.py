@@ -11,14 +11,12 @@ survey.to_csv('/Users/jack/Downloads/IST 356/assignment-05-JackVsyr/code/survey.
 
 years = survey['year'].unique()
 
-
 for year in years:
     
     col_year = pd.read_html(f"https://www.numbeo.com/cost-of-living/rankings.jsp?title={year}&displayColumn=0")
     col_year = col_year[1]
     col_year['year'] = year
     col_year.to_csv(f'/Users/jack/Downloads/IST 356/assignment-05-JackVsyr/code/col_{year}.csv', index=False)
-
 
 url = "https://docs.google.com/spreadsheets/d/14wvnQygIX1eCVo7H5B7a96W1v5VCg6Q9yeRoESF6epw/export?format=csv"
 state_table = pd.read_csv(url)
