@@ -1,0 +1,599 @@
+Rank,City,Cost of Living Index,year
+,"Hamilton, Bermuda",146.3,2021
+,"Basel, Switzerland",136.7,2021
+,"Zurich, Switzerland",135.5,2021
+,"Lausanne, Switzerland",132.9,2021
+,"Geneva, Switzerland",131.7,2021
+,"Lugano, Switzerland",128.4,2021
+,"Bern, Switzerland",126.2,2021
+,"Tromso, Norway",113.1,2021
+,"Stavanger, Norway",107.9,2021
+,"Trondheim, Norway",107.1,2021
+,"Oslo, Norway",106.1,2021
+,"Bergen, Norway",104.1,2021
+,"New York, NY, United States",100.0,2021
+,"Reykjavik, Iceland",98.8,2021
+,"Nagoya, Japan",97.9,2021
+,"Copenhagen, Denmark",97.5,2021
+,"Honolulu, HI, United States",95.9,2021
+,"Aarhus, Denmark",95.0,2021
+,"Paris, France",94.2,2021
+,"Tel Aviv-Yafo, Israel",93.6,2021
+,"San Francisco, CA, United States",93.3,2021
+,"Aalborg, Denmark",93.2,2021
+,"Anchorage, AK, United States",92.2,2021
+,"Tokyo, Japan",91.3,2021
+,"Luxembourg, Luxembourg",89.6,2021
+,"Oakland, CA, United States",89.6,2021
+,"Seattle, WA, United States",89.5,2021
+,"Boston, MA, United States",89.3,2021
+,"Darwin, Australia",89.1,2021
+,"Sydney, Australia",89.1,2021
+,"Nassau, Bahamas",88.8,2021
+,"Seoul, South Korea",88.4,2021
+,"Queens, NY, United States",88.0,2021
+,"Stockholm, Sweden",87.5,2021
+,"Valletta, Malta",86.9,2021
+,"Amsterdam, Netherlands",86.8,2021
+,"London, United Kingdom",86.7,2021
+,"Newcastle, Australia",86.3,2021
+,"Dublin, Ireland",86.0,2021
+,"Cork, Ireland",85.9,2021
+,"Singapore, Singapore",85.6,2021
+,"Osaka, Japan",85.5,2021
+,"Antibes, France",85.0,2021
+,"Odense, Denmark",85.0,2021
+,"Uppsala, Sweden",84.9,2021
+,"Haifa, Israel",84.8,2021
+,"Auckland, New Zealand",84.8,2021
+,"Brisbane, Australia",84.7,2021
+,"Perth, Australia",84.6,2021
+,"Canberra, Australia",84.6,2021
+,"Washington, DC, United States",84.4,2021
+,"Dubrovnik, Croatia",84.3,2021
+,"Utrecht, Netherlands",84.3,2021
+,"Jerusalem, Israel",84.2,2021
+,"Galway, Ireland",84.2,2021
+,"Milan, Italy",83.6,2021
+,"Beirut, Lebanon",83.6,2021
+,"Jersey City, NJ, United States",83.5,2021
+,"Gold Coast, Australia",83.4,2021
+,"Breda, Netherlands",82.8,2021
+,"Bend, OR, United States",82.8,2021
+,"Eindhoven, Netherlands",82.6,2021
+,"Minneapolis, MN, United States",82.5,2021
+,"Melbourne, Australia",82.4,2021
+,"Lyon, France",82.3,2021
+,"Nice, France",82.0,2021
+,"Strasbourg, France",82.0,2021
+,"Munich, Germany",82.0,2021
+,"Los Angeles, CA, United States",81.9,2021
+,"Fremont, CA, United States",81.8,2021
+,"Helsinki, Finland",81.4,2021
+,"Fort Lauderdale, FL, United States",81.3,2021
+,"Oulu, Finland",81.1,2021
+,"Brighton, United Kingdom",81.0,2021
+,"Peterborough, United Kingdom",81.0,2021
+,"Gothenburg, Sweden",81.0,2021
+,"Milwaukee, WI, United States",81.0,2021
+,"Haarlem, Netherlands",80.8,2021
+,"Hamilton, New Zealand",80.8,2021
+,"Leiden, Netherlands",80.8,2021
+,"Rennes, France",80.7,2021
+,"Linz, Austria",80.7,2021
+,"Christchurch, New Zealand",80.7,2021
+,"Groningen, Netherlands",80.6,2021
+,"Adelaide, Australia",80.4,2021
+,"Lund, Sweden",80.4,2021
+,"Chicago, IL, United States",80.4,2021
+,"Charleston, SC, United States",80.2,2021
+,"San Diego, CA, United States",80.2,2021
+,"Hong Kong, Hong Kong (China)",79.9,2021
+,"Montpellier, France",79.9,2021
+,"Genoa, Italy",79.7,2021
+,"Pittsburgh, PA, United States",79.7,2021
+,"Salem, OR, United States",79.7,2021
+,"Saint Paul, MN, United States",79.6,2021
+,"Turku, Finland",79.6,2021
+,"Tampa, FL, United States",79.5,2021
+,"Graz, Austria",79.5,2021
+,"Antwerp, Belgium",79.4,2021
+,"Grenoble, France",79.2,2021
+,"Irvine, CA, United States",79.2,2021
+,"Philadelphia, PA, United States",79.1,2021
+,"Maastricht, Netherlands",79.1,2021
+,"Bergamo, Italy",79.1,2021
+,"Brescia, Italy",79.1,2021
+,"Brussels, Belgium",79.1,2021
+,"Leuven, Belgium",78.9,2021
+,"Nijmegen, Netherlands",78.9,2021
+,"Sliema, Malta",78.9,2021
+,"Rome, Italy",78.8,2021
+,"Toulouse, France",78.7,2021
+,"Portland, OR, United States",78.7,2021
+,"Salzburg, Austria",78.6,2021
+,"San Jose, CA, United States",78.6,2021
+,"Hobart, Australia",78.5,2021
+,"Malmo, Sweden",78.5,2021
+,"Wellington, New Zealand",78.5,2021
+,"Rotterdam, Netherlands",78.2,2021
+,"Miami, FL, United States",78.1,2021
+,"Limerick, Ireland",77.9,2021
+,"Espoo, Finland",77.8,2021
+,"Tampere, Finland",77.5,2021
+,"Gent, Belgium",77.4,2021
+,"Parma, Italy",77.2,2021
+,"Bologna, Italy",77.0,2021
+,"Kingston, Canada",77.0,2021
+,"Sacramento, CA, United States",76.7,2021
+,"Surrey, Canada",76.6,2021
+,"Burnaby, Canada",76.5,2021
+,"Guildford, United Kingdom",76.4,2021
+,"Bellingham, WA, United States",76.3,2021
+,"Nantes, France",76.3,2021
+,"Vancouver, Canada",76.2,2021
+,"Atlanta, GA, United States",76.2,2021
+,"Birmingham, AL, United States",76.2,2021
+,"Halifax, Canada",76.2,2021
+,"St. John's, Newfoundland and Labrador, Canada",76.1,2021
+,"Edinburgh, United Kingdom",76.0,2021
+,"Everett, WA, United States",75.9,2021
+,"Florence, Italy",75.9,2021
+,"Fredericton, Canada",75.9,2021
+,"Reading, United Kingdom",75.7,2021
+,"Toronto, Canada",75.7,2021
+,"Cleveland, OH, United States",75.6,2021
+,"Frankfurt, Germany",75.6,2021
+,"Lille, France",75.6,2021
+,"York, United Kingdom",75.5,2021
+,"Cambridge, United Kingdom",75.5,2021
+,"New Orleans, LA, United States",75.3,2021
+,"Heidelberg, Germany",75.3,2021
+,"Bristol, United Kingdom",75.3,2021
+,"Delft, Netherlands",75.2,2021
+,"Trieste, Italy",75.2,2021
+,"Enschede, Netherlands",75.1,2021
+,"Marseille, France",74.9,2021
+,"Milton Keynes, United Kingdom",74.9,2021
+,"Aberdeen, United Kingdom",74.8,2021
+,"Bonn, Germany",74.5,2021
+,"Hamburg, Germany",74.5,2021
+,"Augsburg, Germany",74.4,2021
+,"Swansea, United Kingdom",74.3,2021
+,"Ann Arbor, MI, United States",74.3,2021
+,"Verona, Italy",74.2,2021
+,"Denver, CO, United States",74.0,2021
+,"Colorado Springs, CO, United States",73.9,2021
+,"Mannheim, Germany",73.8,2021
+,"Red Deer, Canada",73.8,2021
+,"Calgary, Canada",73.6,2021
+,"Spokane, WA, United States",73.5,2021
+,"Long Beach, CA, United States",73.4,2021
+,"Turin, Italy",73.4,2021
+,"Swindon, United Kingdom",73.4,2021
+,"Oxford, United Kingdom",73.3,2021
+,"Baltimore, MD, United States",73.3,2021
+,"Columbus, OH, United States",73.1,2021
+,"Portsmouth, United Kingdom",73.1,2021
+,"Erlangen, Germany",73.0,2021
+,"Buffalo, NY, United States",72.9,2021
+,"Nuremberg, Germany",72.8,2021
+,"Edmonton, Canada",72.7,2021
+,"Cologne, Germany",72.7,2021
+,"Charlotte, NC, United States",72.7,2021
+,"Victoria, Canada",72.6,2021
+,"The Hague (Den Haag), Netherlands",72.5,2021
+,"Berlin, Germany",72.5,2021
+,"Manchester, United Kingdom",72.5,2021
+,"Albany, NY, United States",72.5,2021
+,"Stuttgart, Germany",72.5,2021
+,"Lincoln, United Kingdom",72.5,2021
+,"Dusseldorf, Germany",72.4,2021
+,"Nottingham, United Kingdom",72.4,2021
+,"Olympia, WA, United States",72.3,2021
+,"Mississauga, Canada",72.2,2021
+,"Nashville, TN, United States",72.1,2021
+,"Ottawa, Canada",72.1,2021
+,"Rochester, NY, United States",72.1,2021
+,"Plymouth, United Kingdom",72.1,2021
+,"Southampton, United Kingdom",71.9,2021
+,"Coventry, United Kingdom",71.9,2021
+,"Regina, Canada",71.8,2021
+,"Mobile, AL, United States",71.8,2021
+,"San Juan, Puerto Rico",71.7,2021
+,"Saskatoon, Canada",71.7,2021
+,"Derby, United Kingdom",71.7,2021
+,"Dortmund, Germany",71.5,2021
+,"Winnipeg, Canada",71.4,2021
+,"Riverside, CA, United States",71.4,2021
+,"Exeter, United Kingdom",71.4,2021
+,"Macao, Macao (China)",71.3,2021
+,"Vienna, Austria",71.3,2021
+,"Raleigh, NC, United States",71.2,2021
+,"Omaha, NE, United States",71.0,2021
+,"Guelph, Canada",70.8,2021
+,"Birmingham, United Kingdom",70.8,2021
+,"Nanaimo, BC, Canada",70.8,2021
+,"Brampton, Canada",70.7,2021
+,"Freiburg im Breisgau, Germany",70.5,2021
+,"Norwich, United Kingdom",70.4,2021
+,"Dundee, United Kingdom",70.4,2021
+,"Coquitlam, Canada",70.3,2021
+,"Vancouver, WA, United States",70.2,2021
+,"Limassol, Cyprus",70.0,2021
+,"North Vancouver, Canada",69.9,2021
+,"Liverpool, United Kingdom",69.8,2021
+,"Padova, Italy",69.8,2021
+,"Detroit, MI, United States",69.7,2021
+,"Cardiff, United Kingdom",69.6,2021
+,"Jacksonville, FL, United States",69.5,2021
+,"Orlando, FL, United States",69.4,2021
+,"Dresden, Germany",69.3,2021
+,"Glasgow, United Kingdom",69.1,2021
+,"Las Vegas, NV, United States",68.9,2021
+,"Kansas City, MO, United States",68.9,2021
+,"Nicosia, Cyprus",68.8,2021
+,"Madison, WI, United States",68.7,2021
+,"Karlsruhe, Germany",68.6,2021
+,"Montreal, Canada",68.6,2021
+,"Fort Worth, TX, United States",68.6,2021
+,"Cagliari, Italy",68.5,2021
+,"Leicester, United Kingdom",68.5,2021
+,"Hamilton, Canada",68.4,2021
+,"Darmstadt, Germany",68.4,2021
+,"Hanover, Germany",68.3,2021
+,"Richmond, VA, United States",68.3,2021
+,"Saint Louis, MO, United States",68.2,2021
+,"Naples, Italy",67.9,2021
+,"Fresno, CA, United States",67.7,2021
+,"Stoke-on-Trent, United Kingdom",67.7,2021
+,"Louisville, KY, United States",67.6,2021
+,"Des Moines, IA, United States",67.6,2021
+,"Sheffield, United Kingdom",67.5,2021
+,"Lincoln, NE, United States",67.5,2021
+,"Bremen, Germany",67.5,2021
+,"Bilbao, Spain",67.5,2021
+,"Newcastle upon Tyne, United Kingdom",67.5,2021
+,"Reno, NV, United States",67.4,2021
+,"Quebec City, Canada",67.4,2021
+,"Eugene, OR, United States",67.3,2021
+,"Essen, Germany",67.3,2021
+,"Taipei, Taiwan",67.2,2021
+,"Tucson, AZ, United States",67.2,2021
+,"Dubai, United Arab Emirates",67.0,2021
+,"Bournemouth, United Kingdom",66.8,2021
+,"Kelowna, Canada",66.8,2021
+,"London, Canada",66.8,2021
+,"Phoenix, AZ, United States",66.7,2021
+,"Knoxville, TN, United States",66.7,2021
+,"Kitchener, Canada",66.5,2021
+,"Aachen, Germany",66.3,2021
+,"Baton Rouge, LA, United States",66.2,2021
+,"Barcelona, Spain",66.2,2021
+,"Houston, TX, United States",66.1,2021
+,"Belfast, United Kingdom",65.8,2021
+,"Leipzig, Germany",65.8,2021
+,"Leeds, United Kingdom",65.8,2021
+,"Windsor, Canada",65.7,2021
+,"Madrid, Spain",65.7,2021
+,"Kingston upon Hull, United Kingdom",65.6,2021
+,"Indianapolis, IN, United States",65.6,2021
+,"Akron, OH, United States",65.6,2021
+,"Albuquerque, NM, United States",65.5,2021
+,"Zadar, Croatia",65.3,2021
+,"Huntsville, AL, United States",65.0,2021
+,"Dallas, TX, United States",64.8,2021
+,"Oklahoma City, OK, United States",64.6,2021
+,"San Antonio, TX, United States",64.6,2021
+,"Markham, Canada",64.6,2021
+,"Doha, Qatar",64.1,2021
+,"Salt Lake City, UT, United States",63.9,2021
+,"Chattanooga, TN, United States",63.8,2021
+,"Cincinnati, OH, United States",63.6,2021
+,"Boise, ID, United States",63.3,2021
+,"Tulsa, OK, United States",63.1,2021
+,"Austin, TX, United States",63.0,2021
+,"Larnaca, Cyprus",63.0,2021
+,"Catania, Italy",63.0,2021
+,"Little Rock, AR, United States",62.9,2021
+,"Thessaloniki, Greece",62.9,2021
+,"Kaohsiung, Taiwan",62.8,2021
+,"Memphis, TN, United States",62.7,2021
+,"Ljubljana, Slovenia",62.6,2021
+,"Palma de Mallorca, Spain",62.5,2021
+,"Bari, Italy",62.1,2021
+,"Wichita, KS, United States",61.1,2021
+,"Heraklion, Greece",61.0,2021
+,"Athens, Greece",61.0,2021
+,"Zaragoza (Saragossa), Spain",60.8,2021
+,"Palermo, Italy",60.8,2021
+,"Patras, Greece",60.5,2021
+,"Lexington, KY, United States",60.2,2021
+,"Granada, Spain",60.2,2021
+,"Abu Dhabi, United Arab Emirates",59.8,2021
+,"Makati, Philippines",59.4,2021
+,"Port of Spain, Trinidad And Tobago",59.4,2021
+,"Tallinn, Estonia",59.2,2021
+,"Addis Ababa, Ethiopia",58.9,2021
+,"Panama City, Panama",58.6,2021
+,"Manama, Bahrain",58.2,2021
+,"Split, Croatia",58.0,2021
+,"Seville (Sevilla), Spain",57.3,2021
+,"Alicante, Spain",57.0,2021
+,"Malaga, Spain",56.9,2021
+,"Tartu, Estonia",56.7,2021
+,"Rijeka, Croatia",56.6,2021
+,"Santa Cruz de Tenerife, Spain",56.1,2021
+,"Maribor, Slovenia",56.0,2021
+,"Murcia, Spain",55.9,2021
+,"Abidjan, Ivory Coast",55.7,2021
+,"Paphos, Cyprus",55.5,2021
+,"Bangkok, Thailand",55.4,2021
+,"Riga, Latvia",55.4,2021
+,"Valencia, Spain",55.4,2021
+,"Havana, Cuba",55.3,2021
+,"Funchal, Portugal",55.3,2021
+,"Kingston, Jamaica",55.1,2021
+,"Ajman, United Arab Emirates",55.1,2021
+,"Lisbon, Portugal",55.0,2021
+,"Amman, Jordan",54.8,2021
+,"El Paso, TX, United States",54.5,2021
+,"Porto, Portugal",54.3,2021
+,"Zagreb, Croatia",54.1,2021
+,"Braga, Portugal",53.4,2021
+,"Riyadh, Saudi Arabia",52.7,2021
+,"Bratislava, Slovakia",52.7,2021
+,"Sharjah, United Arab Emirates",52.6,2021
+,"Coimbra, Portugal",52.5,2021
+,"Prague, Czech Republic",52.4,2021
+,"Shanghai, China",52.4,2021
+,"Harare, Zimbabwe",52.3,2021
+,"Muscat, Oman",52.3,2021
+,"San Jose, Costa Rica",52.1,2021
+,"Pattaya, Thailand",52.0,2021
+,"Jeddah (Jiddah), Saudi Arabia",51.6,2021
+,"Klaipeda, Lithuania",51.1,2021
+,"Paramaribo, Suriname",51.0,2021
+,"Phuket, Thailand",51.0,2021
+,"Shenzhen, China",50.8,2021
+,"Montevideo, Uruguay",50.6,2021
+,"Santiago, Chile",50.6,2021
+,"Aveiro, Portugal",50.6,2021
+,"Kosice, Slovakia",50.3,2021
+,"Brno, Czech Republic",49.7,2021
+,"Kuwait City, Kuwait",49.4,2021
+,"Ad Dammam, Saudi Arabia",49.2,2021
+,"Phnom Penh, Cambodia",49.1,2021
+,"Vilnius, Lithuania",48.8,2021
+,"Wuhan, China",48.5,2021
+,"Beijing, China",47.8,2021
+,"Chiang Mai, Thailand",47.2,2021
+,"Kaunas, Lithuania",47.2,2021
+,"San Salvador, El Salvador",46.7,2021
+,"Warsaw, Poland",46.7,2021
+,"Osijek, Croatia",46.6,2021
+,"Olomouc, Czech Republic",46.6,2021
+,"Chengdu, China",46.4,2021
+,"Guatemala City, Guatemala",46.2,2021
+,"Suva, Fiji",46.2,2021
+,"Bali, Indonesia",46.0,2021
+,"Johannesburg, South Africa",46.0,2021
+,"Ostrava, Czech Republic",45.8,2021
+,"Budapest, Hungary",45.4,2021
+,"Gdansk, Poland",44.8,2021
+,"Pretoria, South Africa",44.7,2021
+,"Petaling Jaya, Malaysia",44.2,2021
+,"Davao, Philippines",44.1,2021
+,"Quito, Ecuador",44.0,2021
+,"Sofia, Bulgaria",43.9,2021
+,"Gdynia, Poland",43.8,2021
+,"Manila, Philippines",43.6,2021
+,"Wroclaw, Poland",43.5,2021
+,"Poznan, Poland",43.4,2021
+,"Guangzhou, China",43.4,2021
+,"Jakarta, Indonesia",43.4,2021
+,"Quezon City, Philippines",43.3,2021
+,"Krakow (Cracow), Poland",43.0,2021
+,"Santo Domingo, Dominican Republic",42.9,2021
+,"Bucharest, Romania",42.8,2021
+,"Gaborone, Botswana",42.8,2021
+,"Cebu, Philippines",42.8,2021
+,"Podgorica, Montenegro",42.6,2021
+,"Belgrade, Serbia",42.6,2021
+,"Johor Bahru, Malaysia",42.6,2021
+,"Guayaquil, Ecuador",42.4,2021
+,"Cape Town, South Africa",42.2,2021
+,"Hangzhou, China",42.2,2021
+,"Accra, Ghana",42.2,2021
+,"Tirana, Albania",42.1,2021
+,"Kuala Lumpur, Malaysia",42.1,2021
+,"Marrakech, Morocco",41.7,2021
+,"Santa Cruz, Bolivia",41.5,2021
+,"Moscow, Russia",41.5,2021
+,"Debrecen, Hungary",41.3,2021
+,"Varna, Bulgaria",41.3,2021
+,"Lodz, Poland",41.3,2021
+,"Cluj-Napoca, Romania",41.2,2021
+,"Szeged, Hungary",41.2,2021
+,"Windhoek, Namibia",41.1,2021
+,"Plovdiv, Bulgaria",41.1,2021
+,"Kota Kinabalu, Malaysia",41.0,2021
+,"Constanta, Romania",41.0,2021
+,"Banja Luka, Bosnia And Herzegovina",40.9,2021
+,"Yangon, Myanmar",40.8,2021
+,"Mexico City, Mexico",40.5,2021
+,"Penang, Malaysia",40.5,2021
+,"Brasov, Romania",40.4,2021
+,"Sarajevo, Bosnia And Herzegovina",40.3,2021
+,"Lublin, Poland",40.2,2021
+,"Tangier, Morocco",40.2,2021
+,"Burgas, Bulgaria",40.1,2021
+,"Monterrey, Mexico",40.0,2021
+,"Tehran, Iran",40.0,2021
+,"Szczecin, Poland",39.9,2021
+,"Durban, South Africa",39.9,2021
+,"Casablanca, Morocco",39.8,2021
+,"Novi Sad, Serbia",39.8,2021
+,"Katowice, Poland",39.7,2021
+,"Bialystok, Poland",39.5,2021
+,"Rzeszow, Poland",39.3,2021
+,"Buenos Aires, Argentina",39.2,2021
+,"Vladivostok, Russia",39.2,2021
+,"Lima, Peru",39.2,2021
+,"Sibiu, Romania",39.0,2021
+,"Iasi, Romania",39.0,2021
+,"Ho Chi Minh City, Vietnam",39.0,2021
+,"La Paz, Bolivia",38.8,2021
+,"Nairobi, Kenya",38.5,2021
+,"Oradea, Romania",38.3,2021
+,"Timisoara, Romania",38.3,2021
+,"Rabat, Morocco",38.0,2021
+,"Da Nang, Vietnam",37.9,2021
+,"Ploiesti, Romania",37.8,2021
+,"Tijuana, Mexico",37.8,2021
+,"Maputo, Mozambique",37.6,2021
+,"Hanoi, Vietnam",37.5,2021
+,"Surabaya, Indonesia",37.5,2021
+,"Cancun, Mexico",37.5,2021
+,"Arad, Romania",37.4,2021
+,"Skopje, North Macedonia",37.4,2021
+,"Bandung, Indonesia",37.2,2021
+,"Craiova, Romania",36.9,2021
+,"Merida, Mexico",36.8,2021
+,"Agadir, Morocco",36.6,2021
+,"Sao Paulo, Brazil",36.5,2021
+,"Saint Petersburg, Russia",36.4,2021
+,"Queretaro (Santiago de Querétaro), Mexico",36.4,2021
+,"Puerto Vallarta, Mexico",36.3,2021
+,"Dar es Salaam, Tanzania",35.8,2021
+,"Aguascalientes, Mexico",35.7,2021
+,"Lagos, Nigeria",35.7,2021
+,"Erbil (Irbil), Iraq",35.6,2021
+,"Cuenca, Ecuador",35.3,2021
+,"Guadalajara, Mexico",35.0,2021
+,"Kampala, Uganda",35.0,2021
+,"Dhaka, Bangladesh",34.9,2021
+,"Nis, Serbia",34.9,2021
+,"Campinas, Brazil",34.8,2021
+,"Yogyakarta, Indonesia",34.6,2021
+,"Istanbul, Turkey",34.6,2021
+,"Colombo, Sri Lanka",34.3,2021
+,"Kigali, Rwanda",34.3,2021
+,"Damascus, Syria",34.2,2021
+,"Chisinau, Moldova",34.1,2021
+,"Brasilia, Brazil",33.9,2021
+,"La Marsa (Al Marsa), Tunisia",33.9,2021
+,"Nizhny Novgorod, Russia",33.8,2021
+,"Baghdad, Iraq",33.5,2021
+,"Tyumen, Russia",33.5,2021
+,"Rio de Janeiro, Brazil",33.4,2021
+,"Ulaanbaatar, Mongolia",33.4,2021
+,"Samara, Russia",33.4,2021
+,"Puebla, Mexico",33.4,2021
+,"Bogota, Colombia",33.3,2021
+,"Zapopan, Mexico",33.3,2021
+,"Irkutsk, Russia",33.3,2021
+,"Gurgaon, India",33.1,2021
+,"Rostov-on-Don (Rostov-na-donu), Russia",32.7,2021
+,"Baku, Azerbaijan",32.6,2021
+,"Kaliningrad, Russia",32.5,2021
+,"Florianopolis, Brazil",32.5,2021
+,"Chittagong, Bangladesh",32.5,2021
+,"Cairo, Egypt",32.4,2021
+,"Krasnoyarsk, Russia",32.4,2021
+,"Astana (Nur-Sultan), Kazakhstan",32.3,2021
+,"Belo Horizonte, Brazil",32.1,2021
+,"Minsk, Belarus",32.1,2021
+,"Yerevan, Armenia",32.0,2021
+,"Tunis, Tunisia",32.0,2021
+,"Novosibirsk, Russia",31.9,2021
+,"Kiev (Kyiv), Ukraine",31.9,2021
+,"Porto Alegre, Brazil",31.9,2021
+,"Yekaterinburg, Russia",31.9,2021
+,"Medellin, Colombia",31.8,2021
+,"Barranquilla, Colombia",31.8,2021
+,"Ankara, Turkey",31.7,2021
+,"Fortaleza, Brazil",31.7,2021
+,"Ufa, Russia",31.7,2021
+,"Perm, Russia",31.7,2021
+,"Recife, Brazil",31.7,2021
+,"Voronezh, Russia",31.6,2021
+,"Bursa, Turkey",31.4,2021
+,"Asuncion, Paraguay",31.4,2021
+,"Omsk, Russia",31.4,2021
+,"Izmir, Turkey",31.2,2021
+,"Kathmandu, Nepal",31.2,2021
+,"Krasnodar, Russia",31.2,2021
+,"Odessa (Odesa), Ukraine",31.0,2021
+,"Kazan, Russia",30.8,2021
+,"Tomsk, Russia",30.8,2021
+,"Curitiba, Brazil",30.7,2021
+,"Volgograd, Russia",30.6,2021
+,"Saratov, Russia",30.5,2021
+,"Chandigarh, India",30.5,2021
+,"Algiers, Algeria",30.5,2021
+,"Chelyabinsk, Russia",30.4,2021
+,"Lusaka, Zambia",30.2,2021
+,"Natal, Brazil",30.2,2021
+,"Mumbai, India",30.2,2021
+,"Kharkiv, Ukraine",30.1,2021
+,"Almaty, Kazakhstan",30.0,2021
+,"Goiania, Brazil",29.9,2021
+,"Antalya, Turkey",29.5,2021
+,"Cali, Colombia",29.3,2021
+,"Goa, India",29.3,2021
+,"Izhevsk, Russia",29.2,2021
+,"Salvador, Brazil",29.2,2021
+,"Dnipro, Ukraine",29.1,2021
+,"Lviv, Ukraine",29.1,2021
+,"Mykolaiv, Ukraine",29.1,2021
+,"Vinnytsia, Ukraine",28.8,2021
+,"Tbilisi, Georgia",28.7,2021
+,"Alexandria, Egypt",28.7,2021
+,"Noida, India",28.6,2021
+,"Pristina, Kosovo (Disputed Territory)",28.6,2021
+,"Bucaramanga, Colombia",28.6,2021
+,"Tashkent, Uzbekistan",28.6,2021
+,"Bangalore, India",28.2,2021
+,"Ivano-Frankivsk, Ukraine",28.2,2021
+,"Zaporizhzhya, Ukraine",28.1,2021
+,"Delhi, India",28.0,2021
+,"Batumi, Ajara, Georgia",27.9,2021
+,"Thane, India",27.6,2021
+,"Ranchi, India",27.6,2021
+,"Kabul, Afghanistan",27.5,2021
+,"Guwahati, India",27.5,2021
+,"Navi Mumbai, India",27.1,2021
+,"Hyderabad, India",27.0,2021
+,"Ahmedabad, India",26.7,2021
+,"Ghaziabad, India",26.7,2021
+,"Pune, India",26.6,2021
+,"Kolkata, India",26.6,2021
+,"Sumy, Ukraine",26.6,2021
+,"Ternopil, Ukraine",26.6,2021
+,"Chennai, India",26.2,2021
+,"Patna, India",24.9,2021
+,"Surat, India",24.9,2021
+,"Indore, India",24.9,2021
+,"Vadodara, India",24.9,2021
+,"Jaipur, India",24.7,2021
+,"Lucknow (Lakhnau), India",24.6,2021
+,"Nagpur, India",24.5,2021
+,"Coimbatore, India",24.4,2021
+,"Rawalpindi, Pakistan",24.0,2021
+,"Madurai, India",24.0,2021
+,"Mysore, India",23.9,2021
+,"Vijayawada, India",23.7,2021
+,"Kochi, India",23.6,2021
+,"Islamabad, Pakistan",23.6,2021
+,"Rajkot, India",23.6,2021
+,"Bishkek, Kyrgyzstan",23.4,2021
+,"Bhopal, India",23.2,2021
+,"Kozhikode (Calicut), India",23.0,2021
+,"Raipur, India",22.8,2021
+,"Bhubaneswar, India",22.7,2021
+,"Visakhapatnam, India",22.6,2021
+,"Lahore, Pakistan",22.5,2021
+,"Karachi, Pakistan",22.2,2021
+,"Peshawar, Pakistan",21.5,2021
+,"Thiruvananthapuram, India",20.9,2021

@@ -1,0 +1,328 @@
+Rank,City,Cost of Living Index,year
+,"Zurich, Switzerland",103.8,2025
+,"Lausanne, Switzerland",100.9,2025
+,"Geneva, Switzerland",100.7,2025
+,"New York, NY, United States",100.0,2025
+,"Basel, Switzerland",98.0,2025
+,"Bern, Switzerland",95.0,2025
+,"San Francisco, CA, United States",90.5,2025
+,"Honolulu, HI, United States",86.9,2025
+,"Reykjavik, Iceland",83.7,2025
+,"Boston, MA, United States",83.7,2025
+,"Singapore, Singapore",79.1,2025
+,"Seattle, WA, United States",78.9,2025
+,"Washington, DC, United States",78.7,2025
+,"London, United Kingdom",77.9,2025
+,"San Diego, CA, United States",77.9,2025
+,"Trondheim, Norway",76.8,2025
+,"Los Angeles, CA, United States",76.3,2025
+,"Tel Aviv-Yafo, Israel",76.2,2025
+,"Sacramento, CA, United States",76.0,2025
+,"Oslo, Norway",74.4,2025
+,"Philadelphia, PA, United States",73.9,2025
+,"Hong Kong, Hong Kong (China)",73.6,2025
+,"Chicago, IL, United States",73.2,2025
+,"Miami, FL, United States",72.8,2025
+,"Bergen, Norway",72.2,2025
+,"Atlanta, GA, United States",71.7,2025
+,"Denver, CO, United States",71.6,2025
+,"Copenhagen, Denmark",71.3,2025
+,"New Orleans, LA, United States",71.2,2025
+,"Portland, OR, United States",71.2,2025
+,"Tampa, FL, United States",71.1,2025
+,"Charlotte, NC, United States",70.0,2025
+,"Raleigh, NC, United States",68.8,2025
+,"Pittsburgh, PA, United States",68.7,2025
+,"Paris, France",68.2,2025
+,"Amsterdam, Netherlands",67.7,2025
+,"Sydney, Australia",67.6,2025
+,"Minneapolis, MN, United States",67.3,2025
+,"Jerusalem, Israel",67.0,2025
+,"Columbus, OH, United States",66.8,2025
+,"Canberra, Australia",66.8,2025
+,"Aarhus, Denmark",66.5,2025
+,"Nashville, TN, United States",66.4,2025
+,"Luxembourg, Luxembourg",66.0,2025
+,"Munich, Germany",65.9,2025
+,"Dallas, TX, United States",65.8,2025
+,"Baltimore, MD, United States",65.8,2025
+,"Haarlem, Netherlands",65.3,2025
+,"Surrey, Canada",65.1,2025
+,"Brighton, United Kingdom",65.1,2025
+,"Dublin, Ireland",64.9,2025
+,"Edinburgh, United Kingdom",64.8,2025
+,"Orlando, FL, United States",64.6,2025
+,"Las Vegas, NV, United States",64.5,2025
+,"Haifa, Israel",64.3,2025
+,"Victoria, Canada",63.8,2025
+,"Phoenix, AZ, United States",63.8,2025
+,"Helsinki, Finland",63.6,2025
+,"Madison, WI, United States",63.6,2025
+,"Lyon, France",63.2,2025
+,"Hamburg, Germany",63.1,2025
+,"Cork, Ireland",63.1,2025
+,"Seoul, South Korea",63.1,2025
+,"Tucson, AZ, United States",63.1,2025
+,"Vancouver, Canada",62.7,2025
+,"Saint Louis, MO, United States",62.3,2025
+,"Aberdeen, United Kingdom",62.3,2025
+,"Milan, Italy",62.1,2025
+,"Brussels, Belgium",61.9,2025
+,"Salt Lake City, UT, United States",61.9,2025
+,"Frankfurt, Germany",61.8,2025
+,"Stockholm, Sweden",61.8,2025
+,"Austin, TX, United States",61.7,2025
+,"Rotterdam, Netherlands",61.5,2025
+,"Manchester, United Kingdom",61.5,2025
+,"Adelaide, Australia",61.5,2025
+,"Toronto, Canada",61.4,2025
+,"Bristol, United Kingdom",61.3,2025
+,"Kelowna, Canada",61.3,2025
+,"Cologne, Germany",61.3,2025
+,"Vienna, Austria",61.2,2025
+,"Antwerp, Belgium",61.2,2025
+,"Calgary, Canada",61.0,2025
+,"Melbourne, Australia",60.9,2025
+,"Dusseldorf, Germany",60.8,2025
+,"Glasgow, United Kingdom",60.7,2025
+,"Houston, TX, United States",60.6,2025
+,"Boise, ID, United States",60.6,2025
+,"Stuttgart, Germany",60.2,2025
+,"Utrecht, Netherlands",60.2,2025
+,"Nuremberg, Germany",60.0,2025
+,"Eindhoven, Netherlands",59.9,2025
+,"Gent, Belgium",59.8,2025
+,"Jacksonville, FL, United States",59.7,2025
+,"Berlin, Germany",59.6,2025
+,"Graz, Austria",59.6,2025
+,"Halifax, Canada",59.3,2025
+,"Wellington, New Zealand",59.3,2025
+,"Essen, Germany",59.1,2025
+,"Auckland, New Zealand",59.1,2025
+,"Montpellier, France",59.0,2025
+,"Ottawa, Canada",59.0,2025
+,"Perth, Australia",58.9,2025
+,"Bologna, Italy",58.9,2025
+,"Karlsruhe, Germany",58.9,2025
+,"San Antonio, TX, United States",58.8,2025
+,"Bremen, Germany",58.6,2025
+,"Toulouse, France",58.5,2025
+,"Montreal, Canada",58.4,2025
+,"Edmonton, Canada",58.3,2025
+,"Leeds, United Kingdom",58.3,2025
+,"The Hague (Den Haag), Netherlands",58.3,2025
+,"Hanover, Germany",58.1,2025
+,"Mannheim, Germany",58.1,2025
+,"Dubai, United Arab Emirates",58.0,2025
+,"Tampere, Finland",57.7,2025
+,"Aachen, Germany",57.5,2025
+,"Brisbane, Australia",57.5,2025
+,"Mississauga, Canada",57.4,2025
+,"Liverpool, United Kingdom",57.3,2025
+,"Birmingham, United Kingdom",56.8,2025
+,"Quebec City, Canada",56.7,2025
+,"Leipzig, Germany",56.4,2025
+,"Gothenburg, Sweden",56.2,2025
+,"Sheffield, United Kingdom",56.0,2025
+,"Dresden, Germany",55.9,2025
+,"Malmo, Sweden",55.8,2025
+,"Sliema, Malta",55.5,2025
+,"Belfast, United Kingdom",55.3,2025
+,"Christchurch, New Zealand",55.0,2025
+,"Winnipeg, Canada",55.0,2025
+,"Cincinnati, OH, United States",54.6,2025
+,"London, Canada",54.5,2025
+,"Groningen, Netherlands",54.5,2025
+,"Limassol, Cyprus",54.1,2025
+,"Padova, Italy",53.6,2025
+,"Port of Spain, Trinidad And Tobago",53.5,2025
+,"Tallinn, Estonia",52.7,2025
+,"Abu Dhabi, United Arab Emirates",52.6,2025
+,"Verona, Italy",52.4,2025
+,"San Jose, Costa Rica",52.3,2025
+,"Turin, Italy",51.3,2025
+,"Tokyo, Japan",51.1,2025
+,"Rome, Italy",51.0,2025
+,"Naples, Italy",50.7,2025
+,"Barcelona, Spain",50.6,2025
+,"Madrid, Spain",48.9,2025
+,"Ljubljana, Slovenia",48.5,2025
+,"Athens, Greece",47.8,2025
+,"Taipei, Taiwan",47.8,2025
+,"Doha, Qatar",47.8,2025
+,"Nicosia, Cyprus",47.6,2025
+,"Montevideo, Uruguay",47.5,2025
+,"Split, Croatia",47.4,2025
+,"Manama, Bahrain",47.3,2025
+,"Riyadh, Saudi Arabia",47.3,2025
+,"Sharjah, United Arab Emirates",47.3,2025
+,"Larnaca, Cyprus",47.1,2025
+,"Thessaloniki, Greece",46.9,2025
+,"Prague, Czech Republic",46.1,2025
+,"Lisbon, Portugal",46.1,2025
+,"Panama City, Panama",45.6,2025
+,"Riga, Latvia",45.5,2025
+,"Bratislava, Slovakia",45.3,2025
+,"Vilnius, Lithuania",45.2,2025
+,"Zagreb, Croatia",43.1,2025
+,"Warsaw, Poland",42.7,2025
+,"Beirut, Lebanon",42.4,2025
+,"Caracas, Venezuela",42.3,2025
+,"Porto, Portugal",42.3,2025
+,"Kosice, Slovakia",42.3,2025
+,"Tirana, Albania",42.2,2025
+,"Kaunas, Lithuania",42.2,2025
+,"Seville (Sevilla), Spain",42.2,2025
+,"Brno, Czech Republic",42.1,2025
+,"Malaga, Spain",42.0,2025
+,"Kuwait City, Kuwait",42.0,2025
+,"Jeddah (Jiddah), Saudi Arabia",41.9,2025
+,"Valencia, Spain",41.5,2025
+,"Plzen, Czech Republic",41.1,2025
+,"Krakow (Cracow), Poland",40.7,2025
+,"Monterrey, Mexico",40.5,2025
+,"Muscat, Oman",40.4,2025
+,"Yerevan, Armenia",40.3,2025
+,"Gdansk, Poland",40.2,2025
+,"Buenos Aires, Argentina",40.1,2025
+,"Wroclaw, Poland",39.9,2025
+,"Istanbul, Turkey",39.8,2025
+,"Suzhou, China",39.6,2025
+,"Guatemala City, Guatemala",39.6,2025
+,"Amman, Jordan",39.6,2025
+,"Belgrade, Serbia",39.6,2025
+,"Braga, Portugal",39.4,2025
+,"Shanghai, China",39.3,2025
+,"Sofia, Bulgaria",39.1,2025
+,"Katowice, Poland",38.7,2025
+,"Poznan, Poland",38.6,2025
+,"Budapest, Hungary",38.6,2025
+,"Bucharest, Romania",38.2,2025
+,"Phuket, Thailand",38.1,2025
+,"Mexico City, Mexico",38.1,2025
+,"Santiago, Chile",38.0,2025
+,"Lodz, Poland",37.4,2025
+,"Constanta, Romania",37.3,2025
+,"Cluj-Napoca, Romania",37.2,2025
+,"Novi Sad, Serbia",37.2,2025
+,"Bangkok, Thailand",37.1,2025
+,"Phnom Penh, Cambodia",36.9,2025
+,"Beijing, China",36.6,2025
+,"Harare, Zimbabwe",36.6,2025
+,"Shenzhen, China",36.0,2025
+,"Szczecin, Poland",35.8,2025
+,"Varna, Bulgaria",35.7,2025
+,"Podgorica, Montenegro",35.7,2025
+,"Guangzhou, China",35.6,2025
+,"Ankara, Turkey",35.5,2025
+,"Antalya, Turkey",35.5,2025
+,"Brasov, Romania",35.5,2025
+,"Merida, Mexico",35.2,2025
+,"Izmir, Turkey",35.1,2025
+,"Queretaro (Santiago de Querétaro), Mexico",34.9,2025
+,"Timisoara, Romania",34.7,2025
+,"Manila, Philippines",34.3,2025
+,"Colombo, Sri Lanka",34.3,2025
+,"Guadalajara, Mexico",34.2,2025
+,"Burgas, Bulgaria",33.9,2025
+,"Banja Luka, Bosnia And Herzegovina",33.7,2025
+,"Iasi, Romania",33.7,2025
+,"Pattaya, Thailand",33.6,2025
+,"Debrecen, Hungary",33.4,2025
+,"Kuala Lumpur, Malaysia",33.3,2025
+,"Johannesburg, South Africa",33.2,2025
+,"Quito, Ecuador",33.1,2025
+,"Sarajevo, Bosnia And Herzegovina",33.1,2025
+,"Plovdiv, Bulgaria",33.0,2025
+,"Tbilisi, Georgia",32.9,2025
+,"Erbil (Irbil), Iraq",32.8,2025
+,"Hangzhou, China",32.7,2025
+,"Lima, Peru",32.6,2025
+,"Ulaanbaatar, Mongolia",32.5,2025
+,"Sibiu, Romania",32.4,2025
+,"Chisinau, Moldova",32.0,2025
+,"Accra, Ghana",31.8,2025
+,"Skopje, North Macedonia",31.8,2025
+,"Casablanca, Morocco",31.4,2025
+,"Bursa, Turkey",31.4,2025
+,"Baghdad, Iraq",31.4,2025
+,"Cape Town, South Africa",31.3,2025
+,"Pretoria, South Africa",31.3,2025
+,"Moscow, Russia",30.8,2025
+,"Nairobi, Kenya",30.7,2025
+,"Baku, Azerbaijan",30.7,2025
+,"Nis, Serbia",30.5,2025
+,"Lagos, Nigeria",30.5,2025
+,"Sao Paulo, Brazil",30.5,2025
+,"Rabat, Morocco",29.9,2025
+,"Chiang Mai, Thailand",29.6,2025
+,"Marrakech, Morocco",29.4,2025
+,"Mersin, Turkey",29.2,2025
+,"Batumi, Ajara, Georgia",28.8,2025
+,"Cuenca, Ecuador",28.7,2025
+,"Durban, South Africa",28.6,2025
+,"Ho Chi Minh City, Vietnam",28.5,2025
+,"Jakarta, Indonesia",28.4,2025
+,"Almaty, Kazakhstan",28.0,2025
+,"Kiev (Kyiv), Ukraine",27.9,2025
+,"Rio de Janeiro, Brazil",27.8,2025
+,"Medellin, Colombia",27.8,2025
+,"Brasilia, Brazil",27.7,2025
+,"Hanoi, Vietnam",27.7,2025
+,"Tunis, Tunisia",27.5,2025
+,"Chengdu, China",27.5,2025
+,"Campinas, Brazil",27.0,2025
+,"Florianopolis, Brazil",26.9,2025
+,"Astana (Nur-Sultan), Kazakhstan",26.9,2025
+,"Porto Alegre, Brazil",26.8,2025
+,"Bogota, Colombia",26.7,2025
+,"Bishkek, Kyrgyzstan",26.6,2025
+,"Dnipro, Ukraine",26.6,2025
+,"Kampala, Uganda",26.4,2025
+,"Belo Horizonte, Brazil",26.3,2025
+,"Tehran, Iran",26.3,2025
+,"Minsk, Belarus",26.2,2025
+,"Algiers, Algeria",26.1,2025
+,"Saint Petersburg, Russia",25.8,2025
+,"Mumbai, India",25.6,2025
+,"Pristina, Kosovo (Disputed Territory)",25.4,2025
+,"Tashkent, Uzbekistan",25.2,2025
+,"Curitiba, Brazil",25.1,2025
+,"Odessa (Odesa), Ukraine",25.0,2025
+,"Gurgaon, India",24.7,2025
+,"Lviv, Ukraine",24.4,2025
+,"Kharkiv, Ukraine",24.3,2025
+,"Kathmandu, Nepal",23.8,2025
+,"Dhaka, Bangladesh",23.6,2025
+,"Asuncion, Paraguay",23.2,2025
+,"Bangalore, India",23.2,2025
+,"Yekaterinburg, Russia",22.8,2025
+,"Pune, India",22.8,2025
+,"Nizhny Novgorod, Russia",22.5,2025
+,"Delhi, India",22.2,2025
+,"Kazan, Russia",22.1,2025
+,"Noida, India",22.0,2025
+,"Krasnodar, Russia",21.9,2025
+,"Novosibirsk, Russia",21.9,2025
+,"Kaliningrad, Russia",21.8,2025
+,"Ufa, Russia",21.7,2025
+,"Rostov-on-Don (Rostov-na-donu), Russia",21.4,2025
+,"Hyderabad, India",21.3,2025
+,"Ahmedabad, India",21.1,2025
+,"Chennai, India",20.8,2025
+,"Tripoli, Libya",20.6,2025
+,"Perm, Russia",20.4,2025
+,"Islamabad, Pakistan",20.2,2025
+,"Chandigarh, India",20.0,2025
+,"Vadodara, India",19.7,2025
+,"Cairo, Egypt",19.6,2025
+,"Kolkata, India",19.6,2025
+,"Bhubaneswar, India",19.3,2025
+,"Kochi, India",19.1,2025
+,"Surat, India",19.0,2025
+,"Jaipur, India",18.9,2025
+,"Lucknow (Lakhnau), India",18.8,2025
+,"Karachi, Pakistan",18.7,2025
+,"Lahore, Pakistan",18.4,2025
+,"Alexandria, Egypt",17.9,2025
+,"Coimbatore, India",17.7,2025

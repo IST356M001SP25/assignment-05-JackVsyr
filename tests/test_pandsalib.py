@@ -1,6 +1,8 @@
-import pytest 
-import code.pandaslib as pl
-
+import pytest
+import sys
+import os
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
+import pandaslib as pl
 
 def test_should_pass():
     print("\nAlways True!")

@@ -41,4 +41,8 @@ def upload_file(file_name, bucket_name, object_name=None):
 
 if __name__ == '__main__':
     #TODO: Write your load code here (remove pass first)
-    pass
+    files = ['/Users/jack/Downloads/IST 356/assignment-05-JackVsyr/code/survey.csv', '/Users/jack/Downloads/IST 356/assignment-05-JackVsyr/code/annual_salary_adjusted_by_location_and_age.csv', '/Users/jack/Downloads/IST 356/assignment-05-JackVsyr/code/annual_salary_adjusted_by_location_and_education.csv']
+    bucket = "ist356mafudge"
+    for file in files:
+        obj = file.replace('/Users/jack/Downloads/IST 356/assignment-05-JackVsyr/code/', '')
+        upload_file(file, bucket, obj)

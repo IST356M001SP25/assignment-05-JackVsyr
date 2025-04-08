@@ -1,0 +1,579 @@
+Rank,City,Cost of Living Index,year
+,"Hamilton, Bermuda",149.0,2022
+,"Zurich, Switzerland",131.2,2022
+,"Basel, Switzerland",130.9,2022
+,"Zug, Switzerland",128.1,2022
+,"Lugano, Switzerland",124.0,2022
+,"Lausanne, Switzerland",122.0,2022
+,"Beirut, Lebanon",120.5,2022
+,"Bern, Switzerland",118.2,2022
+,"Geneva, Switzerland",114.1,2022
+,"Stavanger, Norway",104.6,2022
+,"Honolulu, HI, United States",103.6,2022
+,"Oslo, Norway",102.3,2022
+,"Bergen, Norway",100.4,2022
+,"New York, NY, United States",100.0,2022
+,"Trondheim, Norway",99.4,2022
+,"Tromso, Norway",99.0,2022
+,"Reykjavik, Iceland",97.6,2022
+,"Saint Helier, Jersey",96.5,2022
+,"Santa Barbara, CA, United States",95.0,2022
+,"Tel Aviv-Yafo, Israel",94.5,2022
+,"Berkeley, CA, United States",94.4,2022
+,"San Francisco, CA, United States",93.9,2022
+,"Oakland, CA, United States",92.9,2022
+,"Anchorage, AK, United States",91.2,2022
+,"Santa Clara, CA, United States",89.4,2022
+,"Petah Tikva, Israel",88.9,2022
+,"Beersheba, Israel",88.8,2022
+,"Seattle, WA, United States",88.5,2022
+,"Copenhagen, Denmark",88.3,2022
+,"Aarhus, Denmark",88.2,2022
+,"Haifa, Israel",87.4,2022
+,"Jerusalem, Israel",86.3,2022
+,"Nassau, Bahamas",86.0,2022
+,"London, United Kingdom",85.6,2022
+,"Tokyo, Japan",85.6,2022
+,"Boston, MA, United States",85.5,2022
+,"Nice, France",84.6,2022
+,"Paris, France",84.4,2022
+,"Queens, NY, United States",84.0,2022
+,"Singapore, Singapore",84.0,2022
+,"Washington, DC, United States",83.7,2022
+,"Sydney, Australia",83.2,2022
+,"Luxembourg, Luxembourg",83.0,2022
+,"Espoo, Finland",82.5,2022
+,"Aalborg, Denmark",82.4,2022
+,"Pittsburgh, PA, United States",82.4,2022
+,"Darwin, Australia",82.1,2022
+,"Amsterdam, Netherlands",80.8,2022
+,"Jersey City, NJ, United States",80.8,2022
+,"Hong Kong, Hong Kong (China)",80.7,2022
+,"Breda, Netherlands",80.6,2022
+,"Nanaimo, BC, Canada",80.3,2022
+,"Auckland, New Zealand",80.2,2022
+,"Haarlem, Netherlands",79.8,2022
+,"Utrecht, Netherlands",79.8,2022
+,"Brighton, United Kingdom",79.6,2022
+,"Brisbane, Australia",79.4,2022
+,"Philadelphia, PA, United States",79.2,2022
+,"Los Angeles, CA, United States",79.2,2022
+,"Minneapolis, MN, United States",79.1,2022
+,"Turku, Finland",79.1,2022
+,"Dublin, Ireland",79.0,2022
+,"Stockholm, Sweden",78.9,2022
+,"Birmingham, AL, United States",78.8,2022
+,"Seoul, South Korea",78.7,2022
+,"Eindhoven, Netherlands",78.2,2022
+,"Odense, Denmark",78.2,2022
+,"Miami, FL, United States",78.0,2022
+,"Groningen, Netherlands",77.9,2022
+,"Sacramento, CA, United States",77.9,2022
+,"Nijmegen, Netherlands",77.8,2022
+,"Munich, Germany",77.5,2022
+,"Galway, Ireland",77.4,2022
+,"St. John's, Newfoundland and Labrador, Canada",77.4,2022
+,"Innsbruck, Austria",77.3,2022
+,"Perth, Australia",77.3,2022
+,"Charleston, SC, United States",77.3,2022
+,"Asheville, NC, United States",77.3,2022
+,"Lyon, France",77.2,2022
+,"Leiden, Netherlands",77.2,2022
+,"Helsinki, Finland",77.2,2022
+,"Chicago, IL, United States",77.1,2022
+,"Fort Lauderdale, FL, United States",76.9,2022
+,"Portland, OR, United States",76.8,2022
+,"Melbourne, Australia",76.8,2022
+,"Osaka, Japan",76.7,2022
+,"Wellington, New Zealand",76.7,2022
+,"Victoria, Canada",76.7,2022
+,"Vancouver, Canada",76.6,2022
+,"Atlanta, GA, United States",76.6,2022
+,"Adelaide, Australia",76.6,2022
+,"Lund, Sweden",76.6,2022
+,"Toulouse, France",76.6,2022
+,"Guelph, Canada",76.4,2022
+,"Rotterdam, Netherlands",76.2,2022
+,"Saint Paul, MN, United States",76.2,2022
+,"Cork, Ireland",76.1,2022
+,"Guildford, United Kingdom",76.0,2022
+,"Plano, TX, United States",75.9,2022
+,"Canberra, Australia",75.9,2022
+,"Tampa, FL, United States",75.8,2022
+,"Gold Coast, Australia",75.8,2022
+,"Oxford, United Kingdom",75.7,2022
+,"Nagoya, Japan",75.6,2022
+,"Lincoln, United Kingdom",75.6,2022
+,"York, United Kingdom",75.5,2022
+,"San Diego, CA, United States",75.5,2022
+,"Cleveland, OH, United States",75.4,2022
+,"Omaha, NE, United States",75.3,2022
+,"Leuven, Belgium",75.3,2022
+,"Reading, United Kingdom",75.3,2022
+,"Hamilton, New Zealand",75.2,2022
+,"Denver, CO, United States",75.2,2022
+,"Uppsala, Sweden",75.1,2022
+,"Newcastle, Australia",75.0,2022
+,"Halifax, Canada",74.9,2022
+,"Milan, Italy",74.8,2022
+,"Sliema, Malta",74.8,2022
+,"Graz, Austria",74.6,2022
+,"Brussels, Belgium",74.4,2022
+,"Buffalo, NY, United States",74.3,2022
+,"Toronto, Canada",74.3,2022
+,"Colorado Springs, CO, United States",74.3,2022
+,"Fremont, CA, United States",74.1,2022
+,"Limerick, Ireland",74.1,2022
+,"Salem, OR, United States",74.0,2022
+,"The Hague (Den Haag), Netherlands",73.9,2022
+,"Hobart, Australia",73.9,2022
+,"Christchurch, New Zealand",73.8,2022
+,"Malmo, Sweden",73.8,2022
+,"San Jose, CA, United States",73.7,2022
+,"Nashville, TN, United States",73.6,2022
+,"Enschede, Netherlands",73.6,2022
+,"Olympia, WA, United States",73.6,2022
+,"Maastricht, Netherlands",73.6,2022
+,"Baltimore, MD, United States",73.6,2022
+,"New Orleans, LA, United States",73.6,2022
+,"Linz, Austria",73.6,2022
+,"Calgary, Canada",73.4,2022
+,"Edinburgh, United Kingdom",73.1,2022
+,"Ottawa, Canada",73.1,2022
+,"Milton Keynes, United Kingdom",73.1,2022
+,"Manchester, United Kingdom",73.1,2022
+,"Mississauga, Canada",73.1,2022
+,"Cambridge, United Kingdom",73.0,2022
+,"Gothenburg, Sweden",73.0,2022
+,"Edmonton, Canada",72.9,2022
+,"Parma, Italy",72.8,2022
+,"Genoa, Italy",72.8,2022
+,"Frankfurt, Germany",72.8,2022
+,"Fort Collins, CO, United States",72.7,2022
+,"Grenoble, France",72.7,2022
+,"Bergamo, Italy",72.6,2022
+,"Derby, United Kingdom",72.6,2022
+,"Iowa City, IA, United States",72.5,2022
+,"Delft, Netherlands",72.5,2022
+,"Syracuse, NY, United States",72.5,2022
+,"Everett, WA, United States",72.4,2022
+,"Saskatoon, Canada",72.3,2022
+,"Heidelberg, Germany",72.1,2022
+,"Markham, Canada",72.1,2022
+,"Hamburg, Germany",72.0,2022
+,"Red Deer, Canada",71.7,2022
+,"Surrey, Canada",71.7,2022
+,"Trieste, Italy",71.6,2022
+,"Rochester, NY, United States",71.6,2022
+,"Milwaukee, WI, United States",71.6,2022
+,"Albany, NY, United States",71.5,2022
+,"Liverpool, United Kingdom",71.4,2022
+,"Nottingham, United Kingdom",71.3,2022
+,"Antwerp, Belgium",71.3,2022
+,"Bristol, United Kingdom",71.3,2022
+,"Tampere, Finland",71.2,2022
+,"Portsmouth, United Kingdom",71.2,2022
+,"Bonn, Germany",71.1,2022
+,"Marseille, France",71.1,2022
+,"Rome, Italy",71.0,2022
+,"Tauranga, New Zealand",70.9,2022
+,"Florence, Italy",70.8,2022
+,"Plymouth, United Kingdom",70.7,2022
+,"Detroit, MI, United States",70.7,2022
+,"Reno, NV, United States",70.7,2022
+,"Oulu, Finland",70.6,2022
+,"Montreal, Canada",70.6,2022
+,"Salzburg, Austria",70.5,2022
+,"London, Canada",70.5,2022
+,"Brampton, Canada",70.4,2022
+,"Fort Worth, TX, United States",70.4,2022
+,"Durham, NC, United States",70.4,2022
+,"Winnipeg, Canada",70.3,2022
+,"Ann Arbor, MI, United States",70.3,2022
+,"Greensboro, NC, United States",70.3,2022
+,"San Juan, Puerto Rico",70.1,2022
+,"Charlotte, NC, United States",70.1,2022
+,"Norwich, United Kingdom",70.1,2022
+,"Gent, Belgium",70.0,2022
+,"Exeter, United Kingdom",69.9,2022
+,"Dortmund, Germany",69.9,2022
+,"Long Beach, CA, United States",69.9,2022
+,"Bologna, Italy",69.8,2022
+,"North Vancouver, Canada",69.8,2022
+,"Kelowna, Canada",69.7,2022
+,"Columbus, OH, United States",69.7,2022
+,"Brescia, Italy",69.6,2022
+,"Eugene, OR, United States",69.6,2022
+,"Macao, Macao (China)",69.6,2022
+,"Cologne, Germany",69.6,2022
+,"Jacksonville, FL, United States",69.5,2022
+,"Regina, Canada",69.4,2022
+,"Phoenix, AZ, United States",69.4,2022
+,"Des Moines, IA, United States",69.3,2022
+,"Quebec City, Canada",69.0,2022
+,"Fresno, CA, United States",69.0,2022
+,"Berlin, Germany",68.9,2022
+,"Cardiff, United Kingdom",68.9,2022
+,"Windsor, Canada",68.9,2022
+,"Glasgow, United Kingdom",68.8,2022
+,"Kitchener, Canada",68.7,2022
+,"Vancouver, WA, United States",68.6,2022
+,"Kingston, Canada",68.6,2022
+,"Augsburg, Germany",68.5,2022
+,"Stuttgart, Germany",68.4,2022
+,"Vienna, Austria",68.4,2022
+,"Mannheim, Germany",68.4,2022
+,"Las Vegas, NV, United States",68.3,2022
+,"Boise, ID, United States",68.3,2022
+,"Dusseldorf, Germany",68.3,2022
+,"Raleigh, NC, United States",68.2,2022
+,"Pisa, Italy",68.2,2022
+,"Spokane, WA, United States",68.1,2022
+,"Orlando, FL, United States",68.1,2022
+,"Dayton, OH, United States",68.0,2022
+,"Verona, Italy",68.0,2022
+,"Dallas, TX, United States",67.9,2022
+,"Richmond, VA, United States",67.8,2022
+,"Louisville, KY, United States",67.7,2022
+,"Southampton, United Kingdom",67.6,2022
+,"Leeds, United Kingdom",67.6,2022
+,"Treviso, Italy",67.5,2022
+,"Madison, WI, United States",67.3,2022
+,"Birmingham, United Kingdom",67.3,2022
+,"Indianapolis, IN, United States",67.1,2022
+,"Hanover, Germany",67.0,2022
+,"Nuremberg, Germany",67.0,2022
+,"Hamilton, Canada",67.0,2022
+,"Coventry, United Kingdom",66.9,2022
+,"Newcastle upon Tyne, United Kingdom",66.9,2022
+,"Saint Louis, MO, United States",66.8,2022
+,"Ulm, Germany",66.7,2022
+,"Stoke-on-Trent, United Kingdom",66.6,2022
+,"Austin, TX, United States",66.5,2022
+,"Dundee, United Kingdom",66.5,2022
+,"Saarbrucken, Germany",66.3,2022
+,"Kansas City, MO, United States",66.1,2022
+,"Cagliari, Italy",66.1,2022
+,"Karlsruhe, Germany",65.9,2022
+,"Sheffield, United Kingdom",65.9,2022
+,"Taipei, Taiwan",65.8,2022
+,"Belfast, United Kingdom",65.7,2022
+,"Chattanooga, TN, United States",65.7,2022
+,"Darmstadt, Germany",65.5,2022
+,"Limassol, Cyprus",65.3,2022
+,"Turin, Italy",65.2,2022
+,"St.Catharines, Canada",65.2,2022
+,"Best, Netherlands",65.1,2022
+,"Toledo, OH, United States",65.0,2022
+,"Salt Lake City, UT, United States",64.9,2022
+,"Oklahoma City, OK, United States",64.9,2022
+,"Padova, Italy",64.9,2022
+,"Leicester, United Kingdom",64.9,2022
+,"Freiburg im Breisgau, Germany",64.7,2022
+,"Erlangen, Germany",64.5,2022
+,"Nicosia, Cyprus",64.5,2022
+,"Cincinnati, OH, United States",64.4,2022
+,"Tucson, AZ, United States",64.3,2022
+,"Dubai, United Arab Emirates",64.3,2022
+,"Houston, TX, United States",63.9,2022
+,"Bilbao, Spain",63.8,2022
+,"Bournemouth, United Kingdom",63.7,2022
+,"Mesa, AZ, United States",63.7,2022
+,"Essen, Germany",63.6,2022
+,"Albuquerque, NM, United States",63.4,2022
+,"Aberdeen, United Kingdom",63.4,2022
+,"Lexington, KY, United States",62.9,2022
+,"Doha, Qatar",62.9,2022
+,"Leipzig, Germany",62.8,2022
+,"San Antonio, TX, United States",62.6,2022
+,"Bari, Italy",62.6,2022
+,"Dresden, Germany",62.5,2022
+,"Tulsa, OK, United States",62.3,2022
+,"Naples, Italy",62.3,2022
+,"Memphis, TN, United States",62.3,2022
+,"Bremen, Germany",62.2,2022
+,"Akron, OH, United States",62.2,2022
+,"Kingston upon Hull, United Kingdom",62.1,2022
+,"Aachen, Germany",61.8,2022
+,"Kaohsiung, Taiwan",61.4,2022
+,"Regensburg, Germany",61.4,2022
+,"Barcelona, Spain",61.2,2022
+,"Little Rock, AR, United States",59.3,2022
+,"Port of Spain, Trinidad And Tobago",59.2,2022
+,"Madrid, Spain",59.0,2022
+,"Palma de Mallorca, Spain",59.0,2022
+,"Athens, Greece",59.0,2022
+,"Wichita, KS, United States",58.9,2022
+,"Patras, Greece",58.7,2022
+,"Thessaloniki, Greece",58.4,2022
+,"Palermo, Italy",58.0,2022
+,"Abu Dhabi, United Arab Emirates",57.9,2022
+,"Larnaca, Cyprus",57.4,2022
+,"Catania, Italy",57.3,2022
+,"Male, Maldives",57.3,2022
+,"Ljubljana, Slovenia",57.2,2022
+,"Heraklion, Greece",57.1,2022
+,"El Paso, TX, United States",55.9,2022
+,"Havana, Cuba",55.9,2022
+,"Tallinn, Estonia",55.7,2022
+,"Zaragoza (Saragossa), Spain",54.8,2022
+,"Panama City, Panama",54.5,2022
+,"Manama, Bahrain",54.3,2022
+,"Shanghai, China",53.9,2022
+,"Riyadh, Saudi Arabia",53.8,2022
+,"Tartu, Estonia",53.8,2022
+,"Vigo, Spain",53.4,2022
+,"Seville (Sevilla), Spain",53.3,2022
+,"Valencia, Spain",53.0,2022
+,"Paphos, Cyprus",52.9,2022
+,"Makati, Philippines",52.7,2022
+,"Ajman, United Arab Emirates",52.6,2022
+,"Jeddah (Jiddah), Saudi Arabia",52.6,2022
+,"Malaga, Spain",52.5,2022
+,"Amman, Jordan",52.2,2022
+,"Granada, Spain",52.0,2022
+,"Montevideo, Uruguay",52.0,2022
+,"Prague, Czech Republic",51.8,2022
+,"Murcia, Spain",51.7,2022
+,"Lisbon, Portugal",51.7,2022
+,"Maribor, Slovenia",51.6,2022
+,"Split, Croatia",51.6,2022
+,"Kingston, Jamaica",51.6,2022
+,"Riga, Latvia",51.5,2022
+,"Alicante, Spain",51.5,2022
+,"Muscat, Oman",51.2,2022
+,"Shenzhen, China",51.1,2022
+,"Santa Cruz de Tenerife, Spain",50.9,2022
+,"Dakar, Senegal",50.9,2022
+,"Cascais, Portugal",50.9,2022
+,"Las Palmas de Gran Canaria, Spain",50.5,2022
+,"Addis Ababa, Ethiopia",50.5,2022
+,"Bangkok, Thailand",50.4,2022
+,"Rijeka, Croatia",50.1,2022
+,"Phnom Penh, Cambodia",50.1,2022
+,"Zagreb, Croatia",49.9,2022
+,"Beijing, China",49.5,2022
+,"Bratislava, Slovakia",49.4,2022
+,"Porto, Portugal",49.4,2022
+,"Brno, Czech Republic",49.3,2022
+,"Hangzhou, China",49.2,2022
+,"Paramaribo, Suriname",49.2,2022
+,"Funchal, Portugal",49.2,2022
+,"Sharjah, United Arab Emirates",49.0,2022
+,"Ad Dammam, Saudi Arabia",48.4,2022
+,"Olomouc, Czech Republic",48.2,2022
+,"Kosice, Slovakia",48.2,2022
+,"Kuwait City, Kuwait",48.0,2022
+,"San Jose, Costa Rica",47.7,2022
+,"Coimbra, Portugal",47.4,2022
+,"Abidjan, Ivory Coast",47.1,2022
+,"Braga, Portugal",47.0,2022
+,"Vilnius, Lithuania",46.9,2022
+,"Ostrava, Czech Republic",46.5,2022
+,"Aveiro, Portugal",46.5,2022
+,"Budapest, Hungary",46.1,2022
+,"Suzhou, China",45.9,2022
+,"Harare, Zimbabwe",45.7,2022
+,"Leiria, Portugal",45.7,2022
+,"Santiago, Chile",45.6,2022
+,"San Salvador, El Salvador",45.3,2022
+,"Caracas, Venezuela",45.3,2022
+,"Johannesburg, South Africa",44.9,2022
+,"Kaunas, Lithuania",44.7,2022
+,"Santo Domingo, Dominican Republic",44.7,2022
+,"Guatemala City, Guatemala",44.6,2022
+,"Phuket, Thailand",44.3,2022
+,"Warsaw, Poland",43.9,2022
+,"Chengdu, China",43.8,2022
+,"Osijek, Croatia",43.6,2022
+,"Quezon City, Philippines",43.3,2022
+,"Gdynia, Poland",42.9,2022
+,"Bali, Indonesia",42.9,2022
+,"Pretoria, South Africa",42.8,2022
+,"Gaborone, Botswana",42.7,2022
+,"Nanjing, China",42.3,2022
+,"Sofia, Bulgaria",42.2,2022
+,"Chiang Mai, Thailand",42.2,2022
+,"Moscow, Russia",42.2,2022
+,"Pattaya, Thailand",42.1,2022
+,"Gdansk, Poland",41.3,2022
+,"Krakow (Cracow), Poland",41.3,2022
+,"Wroclaw, Poland",41.1,2022
+,"Guangzhou, China",41.1,2022
+,"Cape Town, South Africa",41.0,2022
+,"Jakarta, Indonesia",40.9,2022
+,"Pecs, Hungary",40.8,2022
+,"Manila, Philippines",40.8,2022
+,"Poznan, Poland",40.7,2022
+,"Quito, Ecuador",40.5,2022
+,"Durban, South Africa",40.3,2022
+,"Katowice, Poland",40.3,2022
+,"Cluj-Napoca, Romania",40.2,2022
+,"Bucharest, Romania",40.1,2022
+,"Szeged, Hungary",40.1,2022
+,"Belgrade, Serbia",40.0,2022
+,"Debrecen, Hungary",40.0,2022
+,"Petaling Jaya, Malaysia",40.0,2022
+,"Marrakech, Morocco",39.9,2022
+,"Podgorica, Montenegro",39.3,2022
+,"Szczecin, Poland",39.3,2022
+,"Kota Kinabalu, Malaysia",39.3,2022
+,"Kuala Lumpur, Malaysia",39.2,2022
+,"Varna, Bulgaria",39.1,2022
+,"Suva, Fiji",39.0,2022
+,"Cebu, Philippines",39.0,2022
+,"Ho Chi Minh City, Vietnam",39.0,2022
+,"Cancun, Mexico",38.9,2022
+,"Accra, Ghana",38.7,2022
+,"Tirana, Albania",38.7,2022
+,"Guayaquil, Ecuador",38.6,2022
+,"Monterrey, Mexico",38.5,2022
+,"Plovdiv, Bulgaria",38.4,2022
+,"Sarajevo, Bosnia And Herzegovina",38.4,2022
+,"Lublin, Poland",38.0,2022
+,"Erbil (Irbil), Iraq",38.0,2022
+,"Santa Cruz, Bolivia",38.0,2022
+,"Isfahan (Esfahan), Iran",38.0,2022
+,"Lodz, Poland",37.9,2022
+,"Saint Petersburg, Russia",37.8,2022
+,"Banja Luka, Bosnia And Herzegovina",37.6,2022
+,"Penang, Malaysia",37.6,2022
+,"La Paz, Bolivia",37.5,2022
+,"Sao Paulo, Brazil",37.5,2022
+,"Novi Sad, Serbia",37.4,2022
+,"Mexico City, Mexico",37.4,2022
+,"Lagos, Nigeria",37.3,2022
+,"Constanta, Romania",37.3,2022
+,"Iasi, Romania",37.1,2022
+,"Hanoi, Vietnam",36.9,2022
+,"Tangier, Morocco",36.8,2022
+,"Brasilia, Brazil",36.8,2022
+,"Burgas, Bulgaria",36.8,2022
+,"Baguio, Philippines",36.7,2022
+,"Rio de Janeiro, Brazil",36.7,2022
+,"Brasov, Romania",36.6,2022
+,"Casablanca, Morocco",36.6,2022
+,"Damascus, Syria",36.4,2022
+,"Sibiu, Romania",36.2,2022
+,"Timisoara, Romania",36.2,2022
+,"Kampala, Uganda",36.0,2022
+,"Nairobi, Kenya",35.9,2022
+,"Merida, Mexico",35.7,2022
+,"Rabat, Morocco",35.7,2022
+,"Qingdao, Shandong, China",35.5,2022
+,"Queretaro (Santiago de Querétaro), Mexico",35.4,2022
+,"Bandung, Indonesia",35.4,2022
+,"Oradea, Romania",35.3,2022
+,"Buenos Aires, Argentina",35.2,2022
+,"Dhaka, Bangladesh",35.1,2022
+,"Skopje, North Macedonia",34.9,2022
+,"Ulaanbaatar, Mongolia",34.9,2022
+,"Craiova, Romania",34.9,2022
+,"Agadir, Morocco",34.8,2022
+,"Baghdad, Iraq",34.8,2022
+,"Surabaya, Indonesia",34.7,2022
+,"Lima, Peru",34.6,2022
+,"Arad, Romania",34.5,2022
+,"Florianopolis, Brazil",34.4,2022
+,"Cuenca, Ecuador",34.2,2022
+,"Kiev (Kyiv), Ukraine",34.1,2022
+,"Gurgaon, India",34.1,2022
+,"Guadalajara, Mexico",34.1,2022
+,"Kazan, Russia",34.0,2022
+,"Yerevan, Armenia",34.0,2022
+,"Dar es Salaam, Tanzania",34.0,2022
+,"Nizhny Novgorod, Russia",33.9,2022
+,"Colombo, Sri Lanka",33.6,2022
+,"Lusaka, Zambia",33.6,2022
+,"Nis, Serbia",33.4,2022
+,"Yekaterinburg, Russia",33.2,2022
+,"Minsk, Belarus",32.8,2022
+,"Krasnodar, Russia",32.7,2022
+,"Mashhad, Iran",32.5,2022
+,"Belo Horizonte, Brazil",32.5,2022
+,"Cairo, Egypt",32.4,2022
+,"Porto Alegre, Brazil",32.3,2022
+,"Kigali, Rwanda",32.3,2022
+,"Novosibirsk, Russia",32.3,2022
+,"Rostov-on-Don (Rostov-na-donu), Russia",32.1,2022
+,"Odessa (Odesa), Ukraine",31.9,2022
+,"Chisinau, Moldova",31.8,2022
+,"Curitiba, Brazil",31.8,2022
+,"Baku, Azerbaijan",31.6,2022
+,"Tehran, Iran",31.5,2022
+,"Istanbul, Turkey",31.1,2022
+,"Tbilisi, Georgia",31.0,2022
+,"Yogyakarta, Indonesia",30.8,2022
+,"Asuncion, Paraguay",30.6,2022
+,"Kharkiv, Ukraine",30.5,2022
+,"Astana (Nur-Sultan), Kazakhstan",30.3,2022
+,"Chandigarh, India",30.3,2022
+,"Almaty, Kazakhstan",30.2,2022
+,"Tunis, Tunisia",29.9,2022
+,"Kathmandu, Nepal",29.9,2022
+,"Algiers, Algeria",29.8,2022
+,"Lviv, Ukraine",29.7,2022
+,"Tashkent, Uzbekistan",29.4,2022
+,"Mumbai, India",29.3,2022
+,"Dnipro, Ukraine",29.3,2022
+,"Noida, India",29.2,2022
+,"Medellin, Colombia",28.8,2022
+,"Alexandria, Egypt",28.4,2022
+,"Barranquilla, Colombia",28.4,2022
+,"Navi Mumbai, India",28.4,2022
+,"Izmir, Turkey",28.4,2022
+,"Delhi, India",28.2,2022
+,"Bangalore, India",28.2,2022
+,"Bogota, Colombia",27.9,2022
+,"Goa, India",27.7,2022
+,"Pune, India",27.6,2022
+,"Ghaziabad, India",27.6,2022
+,"Thane, India",27.5,2022
+,"Ranchi, India",27.3,2022
+,"Ankara, Turkey",27.2,2022
+,"Hyderabad, India",26.6,2022
+,"Faridabad, India",26.6,2022
+,"Bishkek, Kyrgyzstan",26.6,2022
+,"Pristina, Kosovo (Disputed Territory)",26.2,2022
+,"Chennai, India",26.1,2022
+,"Ahmedabad, India",26.0,2022
+,"Kolkata, India",26.0,2022
+,"Cali, Colombia",25.8,2022
+,"Guwahati, India",25.6,2022
+,"Lucknow (Lakhnau), India",25.4,2022
+,"Madurai, India",25.4,2022
+,"Surat, India",25.3,2022
+,"Vadodara, India",25.3,2022
+,"Vijayawada, India",24.9,2022
+,"Ludhiana, India",24.9,2022
+,"Cyberjaya, Selangor, Malaysia",24.8,2022
+,"Raipur, India",24.8,2022
+,"Dehradun, India",24.8,2022
+,"Nashik, India",24.6,2022
+,"Indore, India",24.5,2022
+,"Rajkot, India",24.5,2022
+,"Nagpur, India",24.4,2022
+,"Ernakulam, India",24.0,2022
+,"Visakhapatnam, India",24.0,2022
+,"Jaipur, India",24.0,2022
+,"Patna, India",24.0,2022
+,"Mangalore, India",23.7,2022
+,"Bucaramanga, Colombia",23.7,2022
+,"Coimbatore, India",23.4,2022
+,"Bhopal, India",23.4,2022
+,"Bhubaneswar, India",23.3,2022
+,"Mysore, India",23.2,2022
+,"Kochi, India",22.9,2022
+,"Agra, India",22.8,2022
+,"Jammu, India",22.0,2022
+,"Thiruvananthapuram, India",21.8,2022
+,"Kozhikode (Calicut), India",21.6,2022
+,"Lahore, Pakistan",21.5,2022
+,"Islamabad, Pakistan",21.5,2022
+,"Kabul, Afghanistan",21.3,2022
+,"Thrissur, India",21.3,2022
+,"Kanpur, India",20.8,2022
+,"Karachi, Pakistan",20.8,2022
+,"Rawalpindi, Pakistan",20.5,2022
+,"Multan, Pakistan",18.7,2022
+,"Peshawar, Pakistan",18.6,2022
