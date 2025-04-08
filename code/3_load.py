@@ -39,6 +39,7 @@ def upload_file(file_name, bucket_name, object_name=None):
         return False
     return True
 
+
 if __name__ == '__main__':
     #TODO: Write your load code here (remove pass first)
     files = ['/Users/jack/Downloads/IST 356/assignment-05-JackVsyr/code/survey.csv', '/Users/jack/Downloads/IST 356/assignment-05-JackVsyr/code/annual_salary_adjusted_by_location_and_age.csv', '/Users/jack/Downloads/IST 356/assignment-05-JackVsyr/code/annual_salary_adjusted_by_location_and_education.csv']
